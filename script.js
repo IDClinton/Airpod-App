@@ -15,7 +15,7 @@ let listProducts= [];
 let carts = []
 
 if (!localStorage.getItem("currentUser")) {
-  window.location.href = "signup.html";
+  window.location.href = "index.html";
 }
 document.getElementById("logout").addEventListener("click", function () {
   localStorage.removeItem("currentUser");
