@@ -14,9 +14,7 @@ let iconCartSpan = document.querySelector('.icon-cart span');
 let listProducts= [];
 let carts = []
 
-if (!localStorage.getItem("currentUser")) {
-  window.location.href = "signup.html";
-}
+
 document.getElementById("logout").addEventListener("click", function () {
   localStorage.removeItem("currentUser");
   window.location.href = "login.html";
