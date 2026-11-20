@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "AIRPOD 1",
+        "price": 200,
+        "image":"images/img1.png"
+    },
+    {
+        "id": 2,
+        "name": "AIRPOD 2",
+        "price": 200,
+        "image":"images/img2.png"
+    },
+    {
+        "id": 3,
+        "name": "AIRPOD 3",
+        "price": 200,
+        "image":"images/img3.png"
+    },
+    {
+        "id": 4,
+        "name": "AIRPOD 4",
+        "price": 200,
+        "image":"images/img4.png"
+    },
+    {
+        "id": 5,
+        "name": "AIRPOD 5",
+        "price": 200,
+        "image":"images/img5.png"
+    },
+    {
+        "id": 6,
+        "name": "AIRPOD 6",
+        "price": 200,
+        "image":"images/img6.png"
+    },
+    {
+        "id": 7,
+        "name": "AIRPOD 7",
+        "price": 200,
+        "image":"images/img1.png"
+    },
+    {
+        "id": 8,
+        "name": "AIRPOD 8",
+        "price": 200,
+        "image":"images/img2.png"
+    }
+]
